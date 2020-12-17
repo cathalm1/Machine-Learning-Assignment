@@ -1,8 +1,9 @@
 Python version == 3.7.8
 
-1. pip install -r requirements.txt
-2. python classifier.py will reproduce test-out.txt
+1. % pip install -r requirements.txt
+2. % python classifier.py 
 
+pasting 2 above will reproduce test-out.txt
 
 2 will run the method predict_test_in_test() 
 
